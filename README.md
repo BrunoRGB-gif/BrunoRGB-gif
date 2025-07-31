@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋,Eu sou BrunoRGB-gif</h1>
 <h4 align="center">Sou desenvolvedor de sistemas com paixão por transformar ideias em soluções funcionais. O que mais me motiva na área é ver o código ganhando vida, entregando resultados reais e tornando processos mais eficientes. Acredito que a tecnologia bem aplicada pode fazer a diferença.</h4>
 
-- 🔭Atualmente estou trablhando em projetos pessoais e de estudo em desenvolvimento web e sistemas. **AdotePet**
+- 🔭Atualmente estou trablhando em projetos pessoais e de estudo em desenvolvimento web e sistemas.
 
 - 🌱Atualmente estou aprendendo **React, UX/UI e DevOps**
 
