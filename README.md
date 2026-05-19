@@ -58,9 +58,7 @@
   <a href="https://www.uipath.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/uipath" alt="uipath" width="40" height="40"/>
   </a>
-  <a href="https://www.microsoft.com/en-us/power-platform/products/power-automate" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/powerautomate" alt="power automate" width="40" height="40"/>
-  </a>
+ 
 </p>
 
 <h3 align="left">Ferramentas:</h3>
